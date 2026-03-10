@@ -1,0 +1,572 @@
+Doctor_Name,Specialization,Experience,Locality,City,Hospital_Name,Consultation_Fee,Recommendation,Working_Hours,Timing_Category,Time_Duration
+Dr. Vandana Hegde,Infertility Specialist,23 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹800,93%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. B C Mounica,Gynecologist/Obstetrician,10 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹600,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Jasmine Ramesh Salkar,Gynecologist/Obstetrician,23 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹800,95%,24x7,24x7,24.0
+Dr. Soumya H R,Reproductive Endocrinologist (Infertility),8 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹600,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Akshita Agarwal,Gynecologist/Obstetrician,9 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹600,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Prashant Hegde,General Surgeon,25 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹750,96%,24x7,24x7,24.0
+Dr. Addala Pavan Kumar,Oncologist,19 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹800,,11:00 AM - 7:00 PM,Morning,8.0
+Ms. Sreevani Y,Acupressure,6 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Ms. Jyoshna Diwan,Acupuncturist,3 years experience overall,"Madhapur,",Hyderabad,Hegde Hospital,₹500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. S Chandana,Pediatrician,12 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Balajiprasad,General Physician,33 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,67%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. K. Ravindranath,General Physician,23 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,60%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Rama Sanjay Y,Urologist,35 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,75%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Raja Rajeswari,Gynecologist/Obstetrician,47 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,90%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. R Kartheek,Orthopedist,16 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,Free Consultation,90%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. P.J. Vidya Sagar Rao,General Surgeon,26 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹500,,24x7,24x7,24.0
+Dr. Sruhya Madireddy,Gynecologist/Obstetrician,12 years experience overall,"Kukatpally,",Hyderabad,Vignesh Nursing Home,₹600,,24x7,24x7,24.0
+Dr. Karanam Madhuri,General Physician,7 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,,24x7,24x7,24.0
+Dr. Maitrayee Chennu,Gynecologist/Obstetrician,9 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kallepalli Divya,Ear-Nose-Throat (ENT) Specialist,6 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,33%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Suchithra Lakshmi Gadepalli,General Surgeon,13 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Deepti V,Pediatrician,16 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,33%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Rangu Aswini,Orthopedist,6 years experience overall,"Medchal,",Hyderabad,Sankhya Hospitals,₹300,,24x7,24x7,24.0
+Dr. Jaichitra Suresh,General Physician,33 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. R Sundararaman,General Physician,42 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹700,86%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. K Thiruppathi,General Physician,20 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹600,88%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Suresh Kumar D,Infectious Diseases Physician,29 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,67%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rina K,General Physician,20 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,,24x7,24x7,24.0
+Dr. Nishanth Sampath,General Physician,14 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,,24x7,24x7,24.0
+Dr. Rithesh R Nair,Neurologist,28 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹800,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Mithun Prasad.V,Psychiatrist,13 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,96%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prasad G N,Cardiologist,36 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. M Ram Prabahar,Nephrologist,23 years experience overall,"Vadapalani,",Chennai,SIMS Hospital,₹800,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. T V Ashokan,Psychiatrist,45 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹400,63%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kirupanandam G,Ear-Nose-Throat (ENT) Specialist,44 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹500,75%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Kanakarajan P,General Practitioner,62 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹400,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Hariprasath J,General Physician,27 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹800,90%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ramamurthee Kannaiyan,General Practitioner,33 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹700,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. R M Boopathi,General Physician,48 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹1000,100%,24x7,24x7,24.0
+Dr. Anand Gnanaraj,Cardiologist,34 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹1000,80%,24x7,24x7,24.0
+Dr. Ekambaranath Thalla Sambasivam,General Physician,28 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Dhilip Kumar T,Orthopedist,34 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹500,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Asha Mahilmaran,Cardiologist,36 years experience overall,"Tondiarpet,",Chennai,Apollo Hospital,₹1500,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Srikanth Thunga,General Physician,37 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Dhana Priya,Nephrologist,23 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹600,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. C U Velmurugendran,Neurologist,63 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹1100,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. B. Manohar Rama Rao,General Surgeon,54 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹600,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Amilthan,Laparoscopic Surgeon,17 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹500,98%,24x7,24x7,24.0
+Dr. F.Fakhruddin,Orthopedist,23 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹500,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. M Prakash,Ear-Nose-Throat (ENT) Specialist,23 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹1500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. V. Ramadevi,Plastic Surgeon,39 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹600,100%,24x7,24x7,24.0
+Dr. Leonard Ponraj,Orthopedist,41 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. S Tharani Kumar,Dentist,11 years experience overall,"Kilpauk,",Chennai,New Hope Medical Centre,₹500,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Masilla Mallika Chelliah,General Physician,46 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹700,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Hariprasath J,General Physician,27 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹800,90%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Vijayalakshmi Balakrishnan,General Physician,25 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹1000,93%,24x7,24x7,24.0
+Dr. Vidyasagaran T,Vascular Surgeon,45 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹500,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. R M Boopathi,General Physician,48 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Deepesh Venkatraman,Cardiologist,20 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ravi G R,General Physician,29 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹500,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Shyamala Gopi,General Physician,34 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹700,50%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vaidyanathan Doraiswamy,General Physician,58 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹2000,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Devarajan T V,Internal Medicine,55 years experience overall,"Kilpauk,",Chennai,Apollo First Med Hospitals,₹1500,100%,24x7,24x7,24.0
+Dr. Sowmya Prashanth,Pediatrician,27 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,97%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Meenakshi R Kamath,Gynecologist/Obstetrician,36 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,94%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Shilpa Apte,Gynecologist/Obstetrician,26 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,85%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Phani Madhuri,Gynecologist/Obstetrician,23 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,94%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Padmasri V,Gynecologist/Obstetrician,31 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹800,91%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shashikala Hande,Gynecologist/Obstetrician,33 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,95%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ravi Kyadegeri,Pediatrician,18 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Poornima Ramakrishna,Gynecologist/Obstetrician,26 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,95%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Joshitha Naik,Gynecologist/Obstetrician,25 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,86%,24x7,24x7,24.0
+Dr. Santosh N,Paediatric Intensivist,32 years experience overall,"Jayanagar 5 Block,",Bangalore,Apollo Cradle & Children’s Hospital,₹900,98%,24x7,24x7,24.0
+Dr. M Hema,Rheumatologist,25 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,76%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Hema Nandini Mangalanathan,General Physician,37 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Mohamed Mansoor Iqbal,General Physician,16 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Grace Swarnapriya Gnanakumar,General Physician,25 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. T Yashwanth Raj,Nephrologist,13 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. S. Palaniappan,Gastroenterologist,36 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,89%,24x7,24x7,24.0
+Dr. Surendran R.,GastroIntestinal Surgeon,50 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Chezhian Subash,Hematologist,30 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prof. A Murali,Gastroenterologist,43 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,24x7,24x7,24.0
+Dr. M Ragavan,Pediatric Surgeon,26 years experience overall,"Manapakkam,",Chennai,MIOT International Hospital,₹800,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. T K Shanmugaraj,General Physician,34 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,67%,24x7,24x7,24.0
+Dr. Darwin P,General Physician,46 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Muralidharan K V,General Physician,39 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹800,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Krishnamoorthy S,General Physician,35 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Raju P S N,Anesthesiologist,41 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Karthik Madesh,Ear-Nose-Throat (ENT) Specialist,22 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sridevi Anantharaman,General Physician,26 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Deepesh Venkatraman,Cardiologist,20 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anand Gnanaraj,Cardiologist,34 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹1000,80%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Jayashree Krishnan,General Physician,35 years experience overall,"Vanagaram,",Chennai,Apollo Speciality Hospital,₹800,60%,24x7,24x7,24.0
+Dr. Neranjana.P,Infertility Specialist,19 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,83%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. E Pavithra Balaji,Gynecologist/Obstetrician,15 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,99%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Nazira Sadique,Gynecologist/Obstetrician,41 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,97%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Joni Patricia James,Gynecologist/Obstetrician,20 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vidya S,Gynecologist/Obstetrician,27 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,,24x7,24x7,24.0
+Dr. Sudha Balasigamani,Gynecologist/Obstetrician,33 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,Free Consultation,100%,24x7,24x7,24.0
+Dr. K. Uma,Gynecologist/Obstetrician,38 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Malar K T,Gynecologist/Obstetrician,24 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,Free Consultation,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vignesh Kumar,Pediatrician,8 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Kavita Murkey,Gynecologist/Obstetrician,27 years experience overall,"T Nagar,",Chennai,Cloudnine Hospital,₹850,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sivagnanam Nallaperumal,General Physician,33 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Premalatha Balachandran,Gynecologist/Obstetrician,28 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Anitha Parthasarathy,Gynecologist/Obstetrician,32 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹1500,100%,24x7,24x7,24.0
+Dr. Sultana Naseema Banu N,Gynecologist/Obstetrician,22 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Amudha Hari,Gynecologist/Obstetrician,39 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,86%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Deepa Thiagarajamurthy,Gynecologist/Obstetrician,33 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,97%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Meenakshi Balasubramanian,Gynecologist/Obstetrician,20 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,97%,24x7,24x7,24.0
+Dr. Meenakshi,Pediatrician,26 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹800,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Abinaya Maathuri J,Gynecologist/Obstetrician,12 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Kavya Krishna Kumar,Gynecologist/Obstetrician,20 years experience overall,"Alwarpet,",Chennai,Motherhood Hospital,₹600,94%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. jayasudha k,General Physician,25 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,24x7,24x7,24.0
+"Dr. RANJINI,",General Physician,15 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,8:00 AM - 4:00 PM,Morning,8.0
+"Dr. DEEPAK CHAKRAVARTHY,",General Physician,9 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+"Dr. ALLAN DEEPAK,",General Physician,10 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. DEEPAK AVINASH,General Physician,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+"Dr. DEEPAK ,",General Physician,10 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Dhanyan,Ear-Nose-Throat (ENT) Specialist,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹500,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ashokan,Orthopedist,24 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,43%,24x7,24x7,24.0
+Dr. V. Kamaraja,Anesthesiologist,34 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹400,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Vignesh Raj,Ear-Nose-Throat (ENT) Specialist,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. M.R. Girinath,General Physician,62 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1000,80%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prasanna Kumar Reddy,General Physician,56 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1500,100%,24x7,24x7,24.0
+Dr. Kumaravel T S,General Physician,52 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Subramony H,Internal Medicine,34 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1500,100%,24x7,24x7,24.0
+Dr. Joseph Thacil,General Physician,58 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1000,75%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Robert Mao,General Physician,49 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1500,95%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rama Narasimhan,General Physician,29 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹500,69%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Vijay Shankar S,General Physician,54 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. S. Uma Chandran,General Physician,56 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ramamoorthy N,General Physician,59 years experience overall,"Greams Road,",Chennai,Apollo Hospital,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Khader Hussain,General Physician,29 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,24x7,24x7,24.0
+Dr. Vincent Thamburaj,General Physician,50 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Mohamed Zehran .S,General Physician,22 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shivaram Bharadhwaj,General Physician,40 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Premkumar K,Gastroenterologist,20 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1000,80%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sanjay Chandrasekar,General Physician,33 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ramanan S G,General Physician,30 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Vijayakumar G,General Physician,44 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Mahadev P,Oncologist,37 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹3000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sowminarayanan R,General Physician,40 years experience overall,"Teynampet,",Chennai,Apollo Cancer Centres Chennai,₹1500,,24x7,24x7,24.0
+Dr. jayasudha k,General Physician,25 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,24x7,24x7,24.0
+"Dr. RANJINI,",General Physician,15 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+"Dr. DEEPAK CHAKRAVARTHY,",General Physician,9 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,9:00 AM - 6:00 PM,Morning,9.0
+"Dr. ALLAN DEEPAK,",General Physician,10 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. DEEPAK AVINASH,General Physician,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,11:00 AM - 7:00 PM,Morning,8.0
+"Dr. DEEPAK ,",General Physician,10 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,,24x7,24x7,24.0
+Dr. Dhanyan,Ear-Nose-Throat (ENT) Specialist,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ashokan,Orthopedist,24 years experience overall,"T Nagar,",Chennai,Be Well Hospital,Free Consultation,43%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. V. Kamaraja,Anesthesiologist,34 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹400,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vignesh Raj,Ear-Nose-Throat (ENT) Specialist,12 years experience overall,"T Nagar,",Chennai,Be Well Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Yogishwar A V,Orthopedist,23 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,95%,24x7,24x7,24.0
+Dr. Kiran Veerendra,Orthopedist,10 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,100%,24x7,24x7,24.0
+Dr. Rajesh Srinivas,Orthopedist,15 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,82%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Pavith Janardhan T,Orthopedist,12 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Rajesh Srinivas,Orthopedist,28 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shivakumar Y S,Orthopedist,30 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,63%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Dinesh Manni,Orthopedist,17 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹950,40%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Nihal R Rai,Orthopedist,12 years experience overall,"Whitefield,",Bangalore,Manipal Hospital Varthur Road (formerly Columbia Asia Hospital),₹850,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Divyatha Shekar,General Physician,19 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Abdul Majid,General Physician,49 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹1000,94%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ravi Kumar V N,General Physician,28 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,100%,24x7,24x7,24.0
+Dr. Sujatha S Ganagi,General Physician,26 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Geetha Subramanyam K,General Physician,38 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Shafalika.S.B,Gynecologist/Obstetrician,23 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Kiran Chowka,Orthopedist,20 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,93%,24x7,24x7,24.0
+Dr. Anmol N,Spine Surgeon,12 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹1000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sreenivasa Murthy T. M,Ear-Nose-Throat (ENT) Specialist,26 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,89%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sangeetha,Ophthalmologist,25 years experience overall,"Yeshwanthpur,",Bangalore,Manipal Hospitals,₹950,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Tessie G Thoduka,General Physician,43 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,92%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Neehar Patil,General Physician,17 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Jony Ranjan Varadi,General Physician,15 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹1000,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Manoharan B,General Physician,33 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,,24x7,24x7,24.0
+Dr. Maruthesh Gowda,Bariatric Surgeon,22 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,95%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Rani George,Ear-Nose-Throat (ENT) Specialist,29 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,89%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Santhosh Koshy,Pediatrician,35 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹850,78%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Bhubaneshwari Dalei,Gynecologist/Obstetrician,18 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,,24x7,24x7,24.0
+Dr. Shiva Kumar,Orthopedist,17 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹650,75%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Aravind S Kapali,General Surgeon,23 years experience overall,"Ramamurthy Nagar,",Bangalore,Koshys Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Pooja Balaji,General Physician,30 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹800,88%,24x7,24x7,24.0
+Dr. Priyamani,General Physician,25 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹600,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Vijay Kumar,General Physician,23 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹500,91%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anitha Nathan,General Physician,22 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹600,50%,24x7,24x7,24.0
+Dr. Vijayalakshmi M,Gynecologist/Obstetrician,47 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹800,96%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Deepak V Rao,Gynecologist/Obstetrician,39 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹800,96%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. A.C.Praveen Kumar,Gastroenterologist,34 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹600,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Priyanka Reddy,Infertility Specialist,15 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹750,99%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Suvarna Jyothi G,Gynecologist/Obstetrician,17 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹800,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Susheelamma,Gynecologist/Obstetrician,38 years experience overall,"Indiranagar,",Bangalore,Motherhood Hospital,₹800,94%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Swati Shree,Infertility Specialist,12 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,93%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Nirmala M,Gynecologist/Obstetrician,27 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,97%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Anitha B.R,Gynecologist/Obstetrician,28 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹1000,91%,24x7,24x7,24.0
+Dr. Teji Dawane,Gynecologist/Obstetrician,18 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,98%,24x7,24x7,24.0
+Dr. Chetak.A.N,Pediatrician,20 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,91%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Malini R S,Gynecologist/Obstetrician,21 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,95%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Smitha D S,Gynecologist/Obstetrician,17 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Manjunath Bhaskar Vernekar,Pediatrician,16 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Madhusudhan Naidu,Gynecologist/Obstetrician,24 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹800,96%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ragunath.N,Anesthesiologist,23 years experience overall,"Whitefield,",Bangalore,Motherhood Hospital,₹950,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Aravind G. M.,General Physician,27 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹800,91%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Mohan Badagandi,General Physician,51 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹950,91%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. R Manjunath,Internal Medicine,37 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹800,81%,24x7,24x7,24.0
+Dr. Gunashree B,General Physician,8 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹800,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sharat D Hegde,General Physician,24 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹800,85%,24x7,24x7,24.0
+Dr. Nagasubramanyam S,Urologist,42 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹850,96%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Vishal Lahoti,Endocrinologist,13 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹950,91%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Udaybhaskar M,Urologist,21 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹850,75%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Amarkishen Shetty,Gastroenterologist,37 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹950,87%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Mahendra Jain,Urologist,37 years experience overall,"Jayanagar 9 Block,",Bangalore,Manipal Hospital,₹850,82%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Kamal Bhalla,Internal Medicine,29 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹700,85%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Nikhil B,General Practitioner,17 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹1000,85%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Chetana Govindaraju,General Physician,9 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹1000,,24x7,24x7,24.0
+Dr. Channaraya V,General Physician,44 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹700,92%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kamimozhi Venkatesh G,General Physician,33 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,Free Consultation,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Nikhita B Vadvadgi,General Physician,12 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹800,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Kumar Parth,Gastroenterologist,22 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹1000,96%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Poornachandra KS,Gastroenterologist,26 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹1000,95%,24x7,24x7,24.0
+Dr. Arun L Naik,Neurosurgeon,26 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹1400,91%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Savinay K S,Pediatrician,23 years experience overall,"Banashankari,",Bangalore,Sagar Hospitals,₹900,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. S.Sivamurugan,Orthopedist,45 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹1000,92%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ramkumar Ponraj,Orthopedist,15 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ravi Subramanian,Orthopedist,40 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹1000,82%,24x7,24x7,24.0
+Dr. Ganesh Sivamurugan,Orthopedist,13 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. A R Ramaswamy,Orthopedist,14 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹500,,24x7,24x7,24.0
+Dr. Suranjana Ravi,Orthopedist,14 years experience overall,"Anna Nagar,",Chennai,Soundarapandian Bone And Joint Hospital & Research Institute,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Rameshwar Gutte,Dermatologist,22 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹1300,96%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Shashank Shah,Laparoscopic Surgeon,37 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,Free Consultation,96%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ashish Vijay Bakshi,Oncologist,31 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹1600,69%,24x7,24x7,24.0
+Dr. Swarup Pal,Vascular Surgeon,20 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹2600,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Gitika Sanodia,Dermatologist,13 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹1200,94%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Nikhil N Nale (Physiotherapist),Physiotherapist,11 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,Free Consultation,100%,24x7,24x7,24.0
+Ms. Komal L Renuke,Audiologist,18 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹1100,43%,8:00 AM - 4:00 PM,Morning,8.0
+Ms. Vidya Rao Karane,Physiotherapist,16 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹530,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Divya Mishra,Speech Therapist,18 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Roli Dave (Physiotherapist),Physiotherapist,28 years experience overall,"Powai,",Mumbai,Dr L H Hiranandani Hospital,₹530,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Sonal Anand,Psychiatrist,29 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1200,92%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Caroline Simon,Pulmonologist,18 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Chinmay Sanghavi,Ophthalmologist,11 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,,24x7,24x7,24.0
+Dr. Kamleshkumar Pandey,Pulmonologist,19 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1200,96%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shraddha Deshpande,Plastic Surgeon,19 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anjana Gala,Dermatologist,32 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,,24x7,24x7,24.0
+Dr. Jinendra K Jain,General Physician,24 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,74%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Aditi Agrawal,General Surgeon,21 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1000,96%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Prakash L Tejwani,Urologist,22 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1200,96%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Imran Shaikh,GastroIntestinal Surgeon,28 years experience overall,"Mira Road,",Mumbai,Wockhardt Hospitals (formerly known as Umrao Hospital),₹1500,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. GHONGANE (MRS) MEENA ARVIND,General Physician,31 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Nikhil D Datar,Gynecologist/Obstetrician,35 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1600,99%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rajshree Murudkar,General Surgeon,29 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1100,99%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Tanushri Mukherjee,Pediatrician,20 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1300,92%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ritu Hinduja,Infertility Specialist,21 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1000,80%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vibha Arora,Gynecologist/Obstetrician,25 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1600,97%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Veena G. Shinde,Gynecologist/Obstetrician,37 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1600,93%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Shreyansh Prasad Patil,Pediatrician,11 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1100,,24x7,24x7,24.0
+Dr. Mansi Verma,Gynecologist/Obstetrician,13 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1500,100%,24x7,24x7,24.0
+Dr. Anuja Tiwari,Gynecologist/Obstetrician,21 years experience overall,"Malad West,",Mumbai,Cloudnine Hospital,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Balakrishna GK,Internal Medicine,40 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹400,85%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Srinath A,Endocrinologist,33 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹700,90%,24x7,24x7,24.0
+Dr. Deepesh Venkatraman,Cardiologist,20 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹600,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Adarsh C K,Gastroenterologist,23 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹800,98%,24x7,24x7,24.0
+Dr. Mathangi J,Oncologist,28 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹800,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Nagesh Basavaraj,Cardiac Surgeon,27 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹700,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Ravikeerthy M,Internal Medicine,30 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹400,85%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Rajeev Vijayakumar,Oncologist,21 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹900,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Naveen M A,Neurosurgeon,18 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹700,75%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Govind E,Internal Medicine,21 years experience overall,"Kengeri,",Bangalore,Gleneagles Hospitals,₹900,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vishal Kaura Aggarwal,Internal Medicine,29 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹1600,89%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ashok Kumar Jhingan,Internal Medicine,42 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹1500,92%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Anil Vardani,Internal Medicine,40 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,87%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Jeevanjyot Bahia,General Physician,34 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹800,90%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Rajinder Kumar Singal,Internal Medicine,44 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,79%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Pranjal Kulshreshtha,General Physician,23 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Atul Bhasin,General Physician,35 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,67%,24x7,24x7,24.0
+Dr. Deepak Gargi Pande,General Physician,30 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,80%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. N.M. Agarwal,Internal Medicine,41 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹2000,50%,24x7,24x7,24.0
+Dr. Pramod Pasari,General Physician,19 years experience overall,"Pusa Road,",Delhi,BLK-Max Super Speciality Hospital,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Paras Agarwal,,19 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,₹1200,97%,24x7,24x7,24.0
+Dr. Rajendra Kumar Agarwal,Cardiologist,27 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Charu Mithal,Ophthalmologist,25 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,₹1000,83%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Rahul Naithani,Hematologist,25 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,₹500,45%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Surabhi Dutt,Ophthalmologist,20 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,Free Consultation,77%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rahul Mehrotra,Cardiologist,28 years experience overall,"Panchsheel Park,",Delhi,Max Multi Speciality Centre,₹1000,100%,24x7,24x7,24.0
+Dr. Himanshu Shekhar,General Physician,20 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1000,82%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ruchi Tandon,Gynecologist/Obstetrician,21 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1000,84%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Shilpi Juneja,Gynecologist/Obstetrician,21 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1000,90%,24x7,24x7,24.0
+Dr. Shivani Sachdev Gour,Infertility Specialist,28 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1500,83%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Dhwani Mago,Gynecologist/Obstetrician,19 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1000,98%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Mandeep Singh,Orthopedist,26 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1500,86%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sanjeev Kumar Gupta,Laparoscopic Surgeon,29 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹800,67%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Vishal Dutt Gour,Urologist,28 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1500,92%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sreesti Jaiswal,Gynecologist/Obstetrician,14 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1200,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Vishwani Khurana,Infertility Specialist,5 years experience overall,"Greater Kailash Part 1,",Delhi,SCI International Hospital,₹1000,100%,24x7,24x7,24.0
+Dr. Rommel Tickoo,General Physician,29 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹2000,93%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Shefali Sardana,Oncologist,14 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1500,67%,24x7,24x7,24.0
+Dr. Sumit Sethi,General Physician,26 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹2000,,24x7,24x7,24.0
+Dr. Hari Kumar Yadav,General Physician,19 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1200,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Swati Waghdhare,General Physician,16 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Shama Mahendru,General Physician,27 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Pradeep Chowbey,General Surgeon,51 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1500,89%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Gaurav Chanana,Spine And Pain Specialist,18 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹1200,93%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Ajit Man Singh,Ear-Nose-Throat (ENT) Specialist,38 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹2000,87%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Anant Kumar,Urologist,46 years experience overall,"Saket,",Delhi,Max Super Speciality Hospital - Saket East Wing,₹2000,53%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Monika Ghuliani,Infertility Specialist,27 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Tejashri Shrotri,Infertility Specialist,22 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1200,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Meenakshi T Sahu,Infertility Specialist,24 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,77%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ranjana Sharma,Infertility Specialist,46 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹2000,71%,24x7,24x7,24.0
+Dr. Prof. Sadhana Kala,Infertility Specialist,48 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,97%,24x7,24x7,24.0
+Dr. Neeta Misra,Infertility Specialist,41 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1100,95%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Yuvakshi Juneja,Infertility Specialist,44 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,98%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Pooja Choudhary,Infertility Specialist,26 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,97%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ruchi Tandon,Infertility Specialist,21 years experience overall,"Chirag Delhi,",Delhi,Apollo Cradle & Children’s Hospital,₹1500,84%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ayush Gupta,Internal Medicine,36 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹900,57%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Poonam Gupta,Ophthalmologist,31 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹800,67%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Rahul Kumar Gupta,General Physician,2 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹250,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Madhu Verma,Gynecologist/Obstetrician,45 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹700,86%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sunil Varma,General Surgeon,49 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹700,100%,24x7,24x7,24.0
+Dr. Ajay Mittal,Orthopedist,26 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹500,67%,24x7,24x7,24.0
+Dr. Kunal Kaushik,Dentist,23 years experience overall,"Shalimar Bagh,",Delhi,Kesar Hospital,₹300,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ankush Garg,General Physician,16 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1000,99%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ankur Singhal,Orthopedist,23 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹800,96%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Navdeep Kumar,Neurologist,23 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1500,94%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anutosh Singh,Neurosurgeon,19 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1000,67%,24x7,24x7,24.0
+Dr. M K Zaman,Psychiatrist,24 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1000,91%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sanjay Garg,Orthopedist,40 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1200,82%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Samir Tawakley,Nephrologist,30 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1500,85%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Sanjay Dalal,Ear-Nose-Throat (ENT) Specialist,26 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1000,50%,24x7,24x7,24.0
+Dr. Sandeep Jain,General Surgeon,27 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1000,81%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Jaydeep Gambhir,Psychiatrist,33 years experience overall,"Sector 19,",Noida,IndoGulf Hospital,₹1500,80%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Parul Agrawal,Gynecologist/Obstetrician,27 years experience overall,"Sector 51,",Noida,"Cloudnine Fertility - IVF Centre, Sector 51",₹1100,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Bhavna Banga,Infertility Specialist,23 years experience overall,"Sector 51,",Noida,"Cloudnine Fertility - IVF Centre, Sector 51",₹1900,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Astha Gupta,Infertility Specialist,18 years experience overall,"Sector 51,",Noida,"Cloudnine Fertility - IVF Centre, Sector 51",₹1100,100%,24x7,24x7,24.0
+Dr. Rakhi,Gynecologist/Obstetrician,21 years experience overall,"Sector 51,",Noida,"Cloudnine Fertility - IVF Centre, Sector 51",₹1100,100%,24x7,24x7,24.0
+Dr. Kiran Sharma,Gynecologist/Obstetrician,29 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,93%,24x7,24x7,24.0
+Dr. Jyoti Bhaskar,Gynecologist/Obstetrician,38 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,98%,24x7,24x7,24.0
+Dr. Parul Agrawal,Gynecologist/Obstetrician,27 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ekta Singh,,25 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,97%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Shishir Bhatnagar,Pediatrician,28 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1200,79%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Astha Gupta,Infertility Specialist,18 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Alok Dwivedi,Pediatrician,29 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,71%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sandeep Chadha,Gynecologist/Obstetrician,28 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,88%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Vinita Gupta,Gynecologist/Obstetrician,27 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,92%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Nisha Munsif Shrotria,Infertility Specialist,43 years experience overall,"Sector 51,",Noida,Cloudnine Hospital,₹1100,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Chandan Kachru,General Physician,35 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1500,97%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sonali Jain,Internal Medicine,34 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹900,100%,24x7,24x7,24.0
+Dr. Deepika Sood,Gynecologist/Obstetrician,23 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1500,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Shalu Gupta,Infertility Specialist,24 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹900,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Parvinder Kaur,Gynecologist/Obstetrician,22 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1300,93%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sapna Yadav,Gynecologist/Obstetrician,12 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Smriti Singhal,Gynecologist/Obstetrician,16 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ankit Gupta,Pediatrician,13 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1200,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ruchi Gupta,Gynecologist/Obstetrician,23 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1500,89%,24x7,24x7,24.0
+Dr. Ragini Agrawal,Gynecologist/Obstetrician,37 years experience overall,"Gurgaon Sector 47,",Gurgaon,Cloudnine Hospital,₹1500,94%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Deep Divanshu Lall,Pain Management Specialist,16 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,93%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Abhishek Kapoor,Psychiatrist,20 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹2000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Pranshul Bishnoi,General Physician,24 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1200,83%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Amitabha Ghosh,General Physician,24 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1200,60%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Sandeep Kumar Mandal,Nephrologist,22 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,50%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Priyanka Garg,General Physician,19 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,,24x7,24x7,24.0
+Dr. Vidit Kaushal,General Physician,18 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Anand Kumar,General Physician,17 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Romi Singh,General Physician,16 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1500,,24x7,24x7,24.0
+Dr. Mohit Saran,Internal Medicine,31 years experience overall,"Palam Vihar,",Gurgaon,Manipal Hospital,₹1200,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Mohit Kumar Arora,Orthopedist,17 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1000,86%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Anubhav Sangwan,General Surgeon,13 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹900,84%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Surendra Kumar Minocha,General Physician,53 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1000,93%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Priyanjana Acharyya,Ear-Nose-Throat (ENT) Specialist,22 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1000,97%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sameeksha,General Physician,8 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1000,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sadhna Sharma,Gynecologist/Obstetrician,26 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1100,92%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Divyakshi Chauhan,Dentist,14 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹400,100%,24x7,24x7,24.0
+Dr. Gaurav Mandhan,Pediatrician,20 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1000,82%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Puneeta Arora,Gynecologist/Obstetrician,46 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1100,84%,24x7,24x7,24.0
+Dr. Deepanshu Khanna,Gastroenterologist,10 years experience overall,"Gurgaon Sector 14,",Gurgaon,Apollo Cradle,₹1200,55%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Neelima Mishra,General Physician,39 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹2000,95%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ashutosh Shukla,Internal Medicine,38 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹2000,81%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sunil Sekhri,General Physician,40 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1200,83%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vishal Saxena,Nephrologist,20 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹2000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Nevin Kishore,General Physician,30 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1800,29%,24x7,24x7,24.0
+Dr. Vivek Raj,General Physician,32 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹2000,86%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Nalin Singhal,General Physician,19 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Swetal chouhan,General Physician,16 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1000,80%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Govind Singh Bisht,General Physician,33 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1800,76%,24x7,24x7,24.0
+Dr. Abhishek Deo,General Physician,31 years experience overall,"Sushant Lok I,",Gurgaon,Max Hospital,₹1500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ankit Bhartia,Orthopedist,18 years experience overall,"Sohna Road,",Gurgaon,Sparsh- Orthopaedics and Sports Injury Centre,₹1200,98%,24x7,24x7,24.0
+Dr. Rakesh Kumar,Orthopedist,7 years experience overall,"Sohna Road,",Gurgaon,Sparsh- Orthopaedics and Sports Injury Centre,₹1200,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Tejnoor Singh,Internal Medicine,18 years experience overall,"Sohna Road,",Gurgaon,Sparsh- Orthopaedics and Sports Injury Centre,₹500,50%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Tapsya Batra (Physiotherapist),Physiotherapist,17 years experience overall,"Sohna Road,",Gurgaon,Sparsh- Orthopaedics and Sports Injury Centre,₹500,100%,24x7,24x7,24.0
+Dr. Subhayu B,General Physician,29 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anindya Sengupta,General Physician,14 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1000,,24x7,24x7,24.0
+Dr. Kundan Chaurasia,General Physician,15 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1000,67%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sanjoy Basu,Gastroenterologist,25 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,85%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prasanna Kumar Mishra,Urologist,45 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,96%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Angshuman Mukherjee,Pulmonologist,17 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,82%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Rajiv Sinha,Pediatrician,32 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,88%,11:00 AM - 7:00 PM,Morning,8.0
+Ms. Usashi Banerjee,Psychologist,18 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹800,,24x7,24x7,24.0
+Dr. Dhrubo Roy,Ear-Nose-Throat (ENT) Specialist,32 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1500,58%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shaktirupa Chakrabarty,Gynecologist/Obstetrician,52 years experience overall,"Mukundapur,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Debasish Saha,General Physician,46 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1500,87%,24x7,24x7,24.0
+Dr. Sima Datta Ray,Internal Medicine,34 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1000,91%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Manaskumar Mandal,General Physician,36 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1200,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Debjani Roy Chowdhury,General Physician,22 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1200,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sudipta Dutta,General Physician,18 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1000,100%,24x7,24x7,24.0
+Dr. Rakhi Sanyal,General Physician,33 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1500,33%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shambhu Vishal,General Physician,17 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1000,87%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Antarikhya Bordoloi,Geriatrician,10 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1200,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Anirvan Jaiswal,General Physician,20 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Subhasish Gangopadhyay,General Physician,40 years experience overall,"Salt Lake,",Kolkata,Manipal Hospital Broadway (AMRI Hospitals),₹950,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kamal Sinha,Rehab & Physical Medicine Specialist,39 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,81%,24x7,24x7,24.0
+Dr. Subhayu B,General Physician,29 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1500,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Anirban Das,Internal Medicine,26 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Aarti Sarda,Dermatologist,19 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1000,91%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Debottam Bandyopadhyay,Gastroenterologist,24 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,85%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Irina Dey,Gynecologist/Obstetrician,22 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹900,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Amitabha Ghosh,Laparoscopic Surgeon,33 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sumanta Chatterjee,Cardiologist,17 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,98%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. R N Bhattacharya,Neurosurgeon,45 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1200,89%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Suranjan Mukherjee,Pulmonologist,34 years experience overall,"Dhakuria,",Kolkata,Manipal Hospitals (AMRI Hospitals),₹1500,71%,24x7,24x7,24.0
+Dr. Dipankar Bhattacharya,Gynecologist,24 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,67%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ritu Das,Gynecologist,26 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Arnab Kundu,Gynecologist,15 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Bidisha Roy Choudhury,Gynecologist,19 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,97%,24x7,24x7,24.0
+Dr. Ganga Sharan,Gynecologist,35 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,100%,24x7,24x7,24.0
+Dr. Sambhunath Bandyopadhyay,Gynecologist,34 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Tanay Kumar Chakravarty,Gynecologist,45 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Anushree Mandal,Gynecologist,17 years experience overall,"Bhawanipore,",Kolkata,Samaritan Clinic Private Limited,,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prathamesh Teje,Internal Medicine,7 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹750,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Lokesh Kumar,General Physician,21 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹800,89%,24x7,24x7,24.0
+Dr. Pankaj Totala,Neurosurgeon,11 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹1000,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Nilesh Giri,General Physician,12 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Gore Jinal Dhansukh,General Physician,9 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹800,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Siddhesh Tryambake,Oncologist,13 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹1000,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Amitkumar Patil,General Physician,23 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹800,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Devendra Satpute,Pediatrician,15 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹1000,50%,24x7,24x7,24.0
+Dr. Rahul Kallianpur,Pediatrician,32 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹800,98%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Harshawardhan Oak,Vascular Surgeon,19 years experience overall,"Pimpri-Chinchwad,",Pune,Aditya Birla Memorial Hospital,₹1000,53%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sheetal Mahajani,Gastroenterologist,35 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹1815,50%,24x7,24x7,24.0
+Dr. Manoj Naik,General Physician,40 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹665,67%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Abhijeet Palshikar,Cardiologist,29 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹1100,77%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Anagha Behere,Ophthalmologist,31 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹605,99%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sanjay Kolte,General Surgeon,29 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹845,98%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Aradhana Chouvhan,Neurologist,18 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹1150,100%,24x7,24x7,24.0
+Dr. Atul Joshi,Laparoscopic Surgeon,31 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹605,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ketan Pai,Urologist,28 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹845,88%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Abhijeet L. Wahegaonkar,Orthopedist,24 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹2200,92%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sandeep Naphade,Plastic Surgeon,24 years experience overall,"Deccan Gymkhana,",Pune,Sahyadri Hospital,₹905,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prashant Potdar,General Physician,15 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1150,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Narendra V Vaidya,Orthopedist,34 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1500,79%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Pallav bhatia,Spine And Pain Specialist,20 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,99%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Suprashant Kulkarni,General Surgeon,28 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,76%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rahul Gagare,Orthopedist,18 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,,24x7,24x7,24.0
+Dr. Gajanan Chaudhari,Urologist,19 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹830,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ashish Suryawanshi,Orthopedist,16 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,67%,24x7,24x7,24.0
+Dr. Nilesh Khanzode,Neurosurgeon,8 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹650,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Jenny Koshy,Internal Medicine,7 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rakesh Patil,Orthopedist,20 years experience overall,"Nigdi-Pradhikaran,",Pune,Lokmanya Hospital,₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Astha Jain Mathur,Gynecologist/Obstetrician,20 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹1000,96%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Archana Dubey,Gynecologist/Obstetrician,25 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹1000,91%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Sonam Baxi,Gynecologist/Obstetrician,15 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹1000,100%,24x7,24x7,24.0
+Dr. Asha Baxi,Infertility Specialist,36 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹1100,77%,24x7,24x7,24.0
+Dr. Sunil Puraswani,Pediatrician,11 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹800,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ashish Jaiswal,Pediatrician,24 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹800,86%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Dhaval Baxi,Gynecologist/Obstetrician,17 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹1200,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anurag Jain,,18 years experience overall,"Malviya Nagar,",Indore,Motherhood Hospital,₹800,67%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Rahul Shah,Ear-Nose-Throat (ENT) Specialist,23 years experience overall,"Majura Gate,",Surat,Auora Ent Hospital & Dental Clinic,₹500,93%,24x7,24x7,24.0
+Dr. Preeti R Shah,Dentist,21 years experience overall,"Majura Gate,",Surat,Auora Ent Hospital & Dental Clinic,₹800,97%,24x7,24x7,24.0
+Dr. Purvil Ganjawala,Dentist,13 years experience overall,"Majura Gate,",Surat,Auora Ent Hospital & Dental Clinic,₹800,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Dipti Patel,Gynecologist/Obstetrician,35 years experience overall,"Rander,",Surat,Love and Care Hospital,₹800,91%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Dipak Patel,Dermatologist,40 years experience overall,"Rander,",Surat,Love and Care Hospital,₹600,92%,24x7,24x7,24.0
+Dr. Yamini Patel,Gynecologist/Obstetrician,13 years experience overall,"Rander,",Surat,Love and Care Hospital,₹800,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Neel Patel,Urologist,13 years experience overall,"Rander,",Surat,Love and Care Hospital,₹800,94%,24x7,24x7,24.0
+Dr. Aruna Jain,Pediatrician,20 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,₹500,50%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Vipin Kumar Jain,General Physician,38 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,₹500,78%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Ravikant Porwal,Internal Medicine,24 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,₹500,50%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Chandan Kedawat,Internal Medicine,33 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,₹500,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Khuteta Shyam Lal,General Physician,49 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Hariani Mrs. Shashibala,General Physician,54 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Gupta Lalit Prasad,General Physician,51 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,24x7,24x7,24.0
+Dr. Khunteta Shyam Sunder,General Physician,48 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Saxena Sunit,General Physician,43 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Jatolia Shyam Sunder,General Physician,38 years experience overall,"Vidhyadhar Nagar,",Jaipur,Manipal Hospitals,Free Consultation,,24x7,24x7,24.0
+Dr. Vikas Mittal,General Physician,26 years experience overall,"Shyam Nagar,",Jaipur,Unikare Hospital,₹600,99%,24x7,24x7,24.0
+Dr. Lubhesh Goyal,Ear-Nose-Throat (ENT) Specialist,17 years experience overall,"Shyam Nagar,",Jaipur,Unikare Hospital,₹700,50%,24x7,24x7,24.0
+Dr. Seema Ranjan,General Physician,18 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sameer Sharma,Cardiologist,32 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,₹500,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Rakesh Ranjan,Orthopedist,16 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,₹400,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Narendra,General Surgeon,12 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,₹500,,24x7,24x7,24.0
+Dr. Arora Mrs Preeti,General Physician,37 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,Free Consultation,,8:00 AM - 4:00 PM,Morning,8.0
+"Dr. KULSHRESHTHA , (MISS) DARPAN",General Physician,7 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,Free Consultation,,24x7,24x7,24.0
+Dr. Abhishek Gupta,Orthopedist,21 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,Free Consultation,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Krishna Hari Sharma,Neurosurgeon,31 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,Free Consultation,92%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Shubhkam Arya,Ear-Nose-Throat (ENT) Specialist,23 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,Free Consultation,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Rajesh Jhorawat,Nephrologist,19 years experience overall,"Mansarovar,",Jaipur,Metro MAS Hospital,₹500,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Anuj Yadav,General Physician,19 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹600,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sumit Saraswat,General Physician,14 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹600,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Mohd Tauseef,General Physician,10 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹600,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Abhijat Mishra,General Physician,18 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹800,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Komal Agarwal,General Physician,9 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹600,,24x7,24x7,24.0
+Dr. Chandrani Khatri,General Physician,11 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹800,,24x7,24x7,24.0
+Dr. Narendra Kumar,General Physician,13 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹500,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ajay Kumar,General Physician,12 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹500,,8:00 AM - 4:00 PM,Morning,8.0
+"Dr. AHMAD, ZEESHAN",General Physician,13 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹400,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Vijay Kumar,Orthopedist,35 years experience overall,"Dubagga,",Lucknow,Charak Hospital,₹600,80%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. H.K. Agarwal,Psychiatrist,41 years experience overall,"Vishnupuri,",Lucknow,Nirvan Hospital,,91%,24x7,24x7,24.0
+Dr. Nilesh Kumar Kanaujiya,Psychiatrist,10 years experience overall,"Vishnupuri,",Lucknow,Nirvan Hospital,,86%,24x7,24x7,24.0
+Dr. Jesna Manoj,Psychiatrist,28 years experience overall,"Vishnupuri,",Lucknow,Nirvan Hospital,,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sumitabh,Psychiatrist,12 years experience overall,"Vishnupuri,",Lucknow,Nirvan Hospital,,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Anuradha R,Gynecologist,42 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹800,,24x7,24x7,24.0
+Dr. Anuradha R,Gynecologist,27 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹800,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Selvanandhini,Gynecologist,18 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹500,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ramya Jayaram,Gynecologist,18 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹400,75%,24x7,24x7,24.0
+Dr. Divya B,Gynecologist,13 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹800,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sindhuri T R,Gynecologist,13 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹800,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sushma R,Gynecologist,12 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹800,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Abineya AR,Gynecologist,12 years experience overall,"Mettupalayam,",Coimbatore,Motherhood Hospital,₹500,67%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Preethi,Gynecologist/Obstetrician,15 years experience overall,"Coimbatore Central,",Coimbatore,Rao Hospital,₹400,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Damodar R.Rao,Gynecologist/Obstetrician,21 years experience overall,"Coimbatore Central,",Coimbatore,Rao Hospital,₹400,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Suganya B,Gynecologist/Obstetrician,14 years experience overall,"Coimbatore Central,",Coimbatore,Rao Hospital,₹400,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Asha R.Rao,Infertility Specialist,51 years experience overall,"Coimbatore Central,",Coimbatore,Rao Hospital,₹750,100%,24x7,24x7,24.0
+Dr. Krishnasamy Sangameswaram,Pediatrician,27 years experience overall,"Coimbatore Central,",Coimbatore,Rao Hospital,₹400,100%,24x7,24x7,24.0
+Dr. Parul Monga,Gynecologist/Obstetrician,14 years experience overall,"Sector-33,",Chandigarh,Bedi Hospital,₹1000,100%,24x7,24x7,24.0
+Dr. Ramneek Singh Bedi,Pediatrician,43 years experience overall,"Sector-33,",Chandigarh,Bedi Hospital,₹1000,98%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. G.K.Bedi,Gynecologist/Obstetrician,41 years experience overall,"Sector-33,",Chandigarh,Bedi Hospital,₹1000,92%,24x7,24x7,24.0
+Dr. Vikram Bedi,Pediatrician,14 years experience overall,"Sector-33,",Chandigarh,Bedi Hospital,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Arunima Chandra,Dentist,13 years experience overall,"Sector-33,",Chandigarh,Bedi Hospital,₹800,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Preeti Singpho,Pediatrician,14 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹800,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Mahesh Hiranandani,Pediatrician,31 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,97%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Monica Agarwal,Gynecologist/Obstetrician,27 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹900,78%,24x7,24x7,24.0
+Dr. Pragya Goel,Gynecologist/Obstetrician,25 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,100%,24x7,24x7,24.0
+Dr. Seema Sharma,Gynecologist/Obstetrician,30 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,96%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Neeraj Goya,Pediatrician,14 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,87%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ritika Bajaj,Gynecologist/Obstetrician,19 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Simrat Kaur,Gynecologist/Obstetrician,11 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹800,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ritambhra Bhalla,Gynecologist/Obstetrician,29 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,96%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Sudhanshu Grover,Pediatrician,20 years experience overall,"Industrial Area Phase II,",Chandigarh,Cloudnine Hospital,₹1000,97%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Roby Bose,Hair Transplant Surgeon,20 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Deepak Chaudhary,Hair Transplant Surgeon,19 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,,24x7,24x7,24.0
+Dr. Kuntal Deb Barma,Hair Transplant Surgeon,21 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,94%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Ritika Khanna,Hair Transplant Surgeon,11 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Nishat Fatima,Hair Transplant Surgeon,15 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sanjeev Paria,Hair Transplant Surgeon,13 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,24x7,24x7,24.0
+Dr. Altamash Zubair,Hair Transplant Surgeon,12 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,92%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Roby Bose,Hair Transplant Surgeon,20 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,24x7,24x7,24.0
+Dr. Deepak Chaudhary,Hair Transplant Surgeon,19 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kuntal Deb Barma,Hair Transplant Surgeon,21 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,94%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Ritika Khanna,Hair Transplant Surgeon,11 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Nishat Fatima,Hair Transplant Surgeon,15 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Sanjeev Paria,Hair Transplant Surgeon,13 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,100%,24x7,24x7,24.0
+Dr. Altamash Zubair,Hair Transplant Surgeon,12 years experience overall,"Sector 9,",Chandigarh,DHI Hair Transplant and Restoration Clinic - Chandigarh,₹1000,92%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Sushil Bishnoi,General Physician,8 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹400,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Daulat Meena,General Physician,15 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹180,,24x7,24x7,24.0
+Dr. Bushra Khalid,General Physician,11 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹500,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Sapan Jain,Laparoscopic Surgeon,27 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹400,67%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Ansha Patel (PhD),Psychologist,14 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹1800,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Gajendra Joshi,Internal Medicine,14 years experience overall,"Hiran Magri,",Udaipur,Shantiraj Hospitals,₹200,,24x7,24x7,24.0
+Dr. Yusuf Bhalamwala,General Physician,6 years experience overall,"Hiran Magri,",Udaipur,Victoria Hospital,₹100,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Kavita Badjatiya,General Physician,31 years experience overall,"Hiran Magri,",Udaipur,Victoria Hospital,₹200,50%,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Prashant Badjatiya,General Physician,6 years experience overall,"Hiran Magri,",Udaipur,Victoria Hospital,₹100,,24x7,24x7,24.0
+Dr. Shravya,General Physician,6 years experience overall,"Hiran Magri,",Udaipur,Victoria Hospital,₹200,,24x7,24x7,24.0
+Dr. Gunjan Badjatiya,General Physician,5 years experience overall,"Hiran Magri,",Udaipur,Victoria Hospital,₹250,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Swarup P. Verma,Internal Medicine,18 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Suryashree Pandey,Nephrologist,28 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,100%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Nitin Tiwari,Cardiologist,29 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,100%,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Piyush Marudwar,Gastroenterologist,17 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1200,83%,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Shrikant Jai,Urologist,16 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1200,100%,24x7,24x7,24.0
+Dr. Anup Agrawal,Internal Medicine,19 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,,9:00 AM - 6:00 PM,Morning,9.0
+Dr. Shivani Dilip Deshpande,Gynecologist/Obstetrician,21 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,,24x7,24x7,24.0
+Dr. Chetan Sharma,Anesthesiologist,21 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1200,,11:00 AM - 7:00 PM,Morning,8.0
+Dr. Siddhartha Saoji,Ear-Nose-Throat (ENT) Specialist,17 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,100%,8:00 AM - 4:00 PM,Morning,8.0
+Dr. Atish Bansod,General Surgeon,24 years experience overall,"Shankar Nagar,",Nagpur,Wockhardt Super Speciality Hospital (Nagpur),₹1000,,10:00 AM - 8:00 PM,Morning,10.0
+Dr. Virendra Kale,Ayurvedic Surgeon,27 years experience overall,"Dighori Naka,",Nagpur,Kale Piles Hospital and Laser Surgry Centre,₹800,86%,24x7,24x7,24.0
+Dr. Lata Kale,Ayurveda,27 years experience overall,"Dighori Naka,",Nagpur,Kale Piles Hospital and Laser Surgry Centre,₹800,90%,24x7,24x7,24.0
