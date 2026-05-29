@@ -1,141 +1,70 @@
-# 🩺 Practo Doctor Data Web Scraping & Data Cleaning Project
+# 🏥 Practo Healthcare Analytics — ETL Project
 
 ## 📌 Project Overview
-This project focuses on **web scraping doctor information from Practo** using Selenium and performing **data cleaning and transformation** using Python and Pandas. The collected data from multiple cities is combined into a structured dataset and prepared for further analysis and visualization.
+An end-to-end ETL (Extract, Transform, Load) project that scrapes doctor 
+and hospital data from Practo.com and builds an interactive analytics 
+dashboard using Power BI.
 
-The goal of this project is to automate healthcare data collection and transform raw web data into a clean and analysis-ready format.
+## 🛠️ Tech Stack
+| Tool | Purpose |
+|------|---------|
+| Python | Web Scraping & Data Cleaning |
+| Selenium | Browser Automation |
+| Pandas | Data Transformation |
+| MySQL | Data Storage & SQL Analysis |
+| Power BI | Dashboard & Visualization |
 
----
+## 🔄 ETL Pipeline
+**Extract**  → Scraped 442 doctor records from Practo.com
+across 5 cities using Selenium
 
-## 🚀 Features
+**Transform** → Cleaned data using Pandas(NaN handling, feature engineering, working hours categorization)
 
-✔ Web scraping using Selenium  
-✔ Automated Chrome driver setup using WebDriver Manager  
-✔ Data collection from multiple city pages  
-✔ Data merging and dataset creation  
-✔ Data cleaning and preprocessing  
-✔ Feature transformation  
-✔ Export cleaned data to CSV  
+**Load**     → Stored in MySQL database (practo_db) and exported as CSV
 
----
+## 📊 Dashboard Features
+- Total Doctors, Avg Fee, Avg Rating KPI Cards
+- Doctors by City (Bar Chart)
+- Top Specializations (Treemap)
+- Morning vs Evening vs 24x7 (Pie Chart)
+- Avg Consultation Fee by City
+- Top Doctors Table
+- Interactive Slicers (City, Specialization, Timing)
 
-## 📂 Dataset Information
+## 🗄️ Database
+- **Database:** MySQL (practo_db)
+- **Table:** doctors
+- **Records:** 442 rows
+- **Columns:** Doctor_Name, Specialization, Experience,
+  Locality, City, Hospital_Name, Consultation_Fee,
+  Rating, Working_Hours, Timing_Category, Time_Duration
 
-The scraped dataset contains information such as:
+## 📝 SQL Analysis (20 Queries)
+Key analyses performed:
+- Doctor count by city and specialization
+- Average consultation fee per city
+- Fee distribution by range
+- Top rated and most experienced doctors
+- 24x7 availability analysis
+- Hospital-wise doctor count
 
-- Doctor Name
-- Specialization
-- Experience
-- Hospital Name
-- Locality
-- Consultation Fee
-- Recommendation Percentage
-- Other doctor details
+## Dashboard 
+<img width="1162" height="652" alt="image" src="https://github.com/user-attachments/assets/d6c1a026-37dc-435b-a95e-37656f314b5e" />
 
-Data was scraped from multiple city-based Practo pages and merged into a single dataset.
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- Selenium
-- Pandas
-- WebDriver Manager
-- Jupyter Notebook
-
----
-
-## 📊 Data Processing Steps
-
-### Consultation Fee Cleaning
-- Removed ₹ symbol
-- Removed commas
-- Replaced "Free Consultation" with 0
-- Converted values into numerical format
-
-### Recommendation Transformation
-- Removed % symbol
-- Converted values to numeric
-- Converted percentage into rating scale
-- Renamed Recommendation → Rating
-
-### Locality Cleaning
-- Removed commas
-- Removed extra spaces
-
-### Experience Transformation
-- Extracted numerical values
-- Converted into integer datatype
-
-### Hospital Name Cleaning
-- Removed text inside brackets
-- Removed unnecessary words
-- Removed extra spaces
-- Standardized names
-
----
-
-## 🔄 Workflow
-
-1. Scrape doctor details from Practo
-2. Store raw data
-3. Merge city datasets
-4. Export dataset as CSV
-5. Perform cleaning and transformation
-6. Generate final structured dataset
-
----
+## 🌆 Cities Covered
+- Hyderabad
+- Chennai
+- Bangalore
+- Mumbai
+- Delhi etc
 
 ## 📁 Project Structure
+practo-etl-project/
+├── webscaping_final.ipynb   # Selenium scraping + MySQL loading
+├── practo_data.csv          # Scraped dataset (442 records)
+├── queries.sql              # 20 MySQL analysis queries
+├── dashboard.png            # Power BI dashboard screenshot
+└── README.md                # Project documentation
 
-```bash
-├── webscaping_final.ipynb
-├── practo_data.csv
-├── README.md
-```
-
----
-
-## 📈 Future Improvements
-
-- Add more cities
-- Include additional doctor details
-- Build interactive dashboard
-- Perform EDA and visualization
-- Create machine learning models using healthcare data
-
----
-
-## 📸 Sample Output
-
-| Doctor | Experience | Hospital | Fee | Rating |
-|----------|------------|-----------|------|---------|
-| ABC | 10 | XYZ Hospital | 500 | 9.2 |
-| DEF | 7 | PQR Clinic | 700 | 8.8 |
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project I learned:
-
-- Web scraping using Selenium
-- Handling dynamic web pages
-- Data preprocessing using Pandas
-- Feature engineering
-- Data transformation techniques
-- Building end-to-end data collection pipelines
-
----
-
-## ⚠ Disclaimer
-
-This project was developed for educational and learning purposes only. Data belongs to Practo and should be used responsibly according to website terms and policies.
-
----
-
-## 👨‍💻 Author
-
-Shreya Joshi
-
+## 👩‍💻 Author
+Shreya R Joshi
